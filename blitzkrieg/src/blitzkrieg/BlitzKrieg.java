@@ -24,7 +24,7 @@ public class BlitzKrieg {
 			String input = sc.nextLine();
 			switch (input) {
 			case "1":
-				currentLang = Lang.RU;
+				currentLang = Lang.EN;
 				break;
 			case "2":
 				currentLang = Lang.RU;
